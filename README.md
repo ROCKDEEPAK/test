@@ -1,5 +1,2 @@
 # test
 testing
-
-Alok
-deepak
